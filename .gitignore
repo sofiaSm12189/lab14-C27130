@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Base de datos generada (se crea con: npm run seed)
+data/*.db
+data/*.db-journal
+data/*.db-shm
+data/*.db-wal
+
+# Variables de entorno (usar .env.example como plantilla)
+.env
+
+# Configuración de editor / herramientas
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*

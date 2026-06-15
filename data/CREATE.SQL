@@ -1,5 +1,3 @@
--- Esquema de la base de datos de DiscoStore.
--- Se vuelve a crear cada vez que se ejecuta `npm run seed`.
 
 DROP TABLE IF EXISTS albumes;
 
