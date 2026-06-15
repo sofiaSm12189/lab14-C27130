@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "My Dear Melancholy,",
+    "artista": "The Weeknd",
+    "genero": "R&B",
+    "anio": 2018,
+    "sello": "XO / Republic Records",
+    "pistas": 6,
+    "imagen": "1albuntheweeknd.avif",
+    "slug": "my-dear-melancholy",
+    "resumen": "EP introspectivo sobre el desamor y la melancolía.",
+    "descripcion": "Sexto trabajo de The Weeknd, un EP de seis canciones lanzado en 2018 que retoma el tono oscuro y emocional de sus primeras mixtapes, explorando rupturas amorosas y vulnerabilidad."
+  },
+  {
+    "titulo": "Dawn FM",
+    "artista": "The Weeknd",
+    "genero": "Synth-pop",
+    "anio": 2022,
+    "sello": "XO / Republic Records",
+    "pistas": 16,
+    "imagen": "2albuntheweeknd.avif",
+    "slug": "dawn-fm",
+    "resumen": "Álbum conceptual narrado como una emisora de radio que guía hacia el amanecer.",
+    "descripcion": "Quinto álbum de estudio de The Weeknd, un concepto de synth-pop y new wave presentado como una estación de radio (Dawn FM) que acompaña al oyente a través de la noche hacia el amanecer, con Jim Carrey como locutor."
+  },
+  {
+    "titulo": "After Hours",
+    "artista": "The Weeknd",
+    "genero": "Synth-pop",
+    "anio": 2020,
+    "sello": "XO / Republic Records",
+    "pistas": 14,
+    "imagen": "3albuntheweeknd.avif",
+    "slug": "after-hours",
+    "resumen": "El álbum de 'Blinding Lights', un viaje nocturno de synth-pop ochentero.",
+    "descripcion": "Cuarto álbum de estudio de The Weeknd, marcado por sintetizadores ochenteros y éxitos como 'Blinding Lights' y 'Save Your Tears'; un relato sobre el exceso, la soledad y la autodestrucción."
+  },
+  {
+    "titulo": "Beauty Behind the Madness",
+    "artista": "The Weeknd",
+    "genero": "R&B",
+    "anio": 2015,
+    "sello": "XO / Republic Records",
+    "pistas": 14,
+    "imagen": "4albuntheweeknd.avif",
+    "slug": "beauty-behind-the-madness",
+    "resumen": "El álbum que catapultó a The Weeknd al estrellato mundial.",
+    "descripcion": "Segundo álbum de estudio de The Weeknd (2015), con éxitos como 'Can't Feel My Face' y 'The Hills'; consolidó su transición del R&B alternativo hacia el pop masivo."
+  },
+  {
+    "titulo": "Hurry Up Tomorrow",
+    "artista": "The Weeknd",
+    "genero": "Pop",
+    "anio": 2025,
+    "sello": "XO / Republic Records",
+    "pistas": 22,
+    "imagen": "5albuntheweeknd.avif",
+    "slug": "hurry-up-tomorrow",
+    "resumen": "El cierre de la trilogía iniciada con After Hours y Dawn FM.",
+    "descripcion": "Sexto álbum de estudio de The Weeknd (2025), concebido como el capítulo final de la trilogía junto a After Hours y Dawn FM; un trabajo extenso sobre la mortalidad, la fama y la redención."
+  },
+  {
+    "titulo": "Starboy",
+    "artista": "The Weeknd",
+    "genero": "Pop",
+    "anio": 2016,
+    "sello": "XO / Republic Records",
+    "pistas": 18,
+    "imagen": "6albuntheweeknd.avif",
+    "slug": "starboy",
+    "resumen": "Álbum ganador del Grammy con la colaboración de Daft Punk.",
+    "descripcion": "Tercer álbum de estudio de The Weeknd (2016), con la producción de Daft Punk en el tema principal 'Starboy'; ganó el Grammy al Mejor Álbum de R&B Contemporáneo y exploró un sonido más pop y electrónico."
+  }
+]
