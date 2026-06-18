@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node --disable-warning=ExperimentalWarning index.js",
     "dev": "nodemon index.js",
-    "seed": "node --disable-warning=ExperimentalWarning data/createdb.js"
+    "seed": "node --disable-warning=ExperimentalWarning data/createdb.js",
+    "test": "vitest run"
   },
   "keywords": [
     "express",
@@ -24,6 +25,8 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "supertest": "^6.3.4",
+    "vitest": "^4.1.9"
   }
 }
